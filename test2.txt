@@ -1,0 +1,12 @@
+ Volume in drive C is Data
+ Volume Serial Number is C67E-DA54
+
+ Directory of C:\Users\sekhar.t\Desktop\java\test12
+
+06-08-2018  22:57    <DIR>          .
+06-08-2018  22:57    <DIR>          ..
+26-07-2018  22:34               142 sekhar.java
+06-08-2018  15:39                 0 test111
+06-08-2018  22:57                 0 test2.txt
+               3 File(s)            142 bytes
+               2 Dir(s)  427,363,598,336 bytes free
